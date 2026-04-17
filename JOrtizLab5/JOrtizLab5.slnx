@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../../Downloads/JOrtizTest/JOrtizTest/DataContext.SqlServer/DataContext.SqlServer.csproj" />
+  <Project Path="JOrtizLab5.csproj" />
+</Solution>

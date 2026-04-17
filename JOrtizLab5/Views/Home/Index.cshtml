@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Api Usage Lab</p>
+     
+    <h3>Query customers from a service</h3>
+    <form asp-action="Customers" method="get">
+        <input name="country" placeholder="Enter a country" />
+        <input type="submit" />
+    </form>
+</div>
